@@ -1,0 +1,48 @@
+<! DOCTYPE HTML>
+<HTML>
+<head>
+    <title>first</title>
+</head>
+
+<body>
+  <h1>This </h1>
+  <h2>is<h2/>
+  <h3>a<h3/>
+  <h4>Bird</h4>
+	</body>
+ <img src="cutephoto.jpg" >
+  <p>Life&nbsp&nbsp&nbsp&nbspis&nbsp&nbspbeautiful</p>
+  <hr>
+  <a href="https://www.google.com">   Please click Here.</a>
+	<img src="cuteimage.jpg" alt ="hi" height="500" width="500">
+
+	<table>
+		<tr>
+			<th>    The Planets   </th>
+			<th>    The Oceans    </th>
+			<th>    The Deserts   </th>
+		<t/r>
+
+		<tr>
+				<td>  Earth      </td>
+				<td>  Pacafic    </td>
+				<td>  Sahara     </td>
+		</tr>
+	</table>
+  <ul>
+    <li>jisna</li>
+    <li>nandi</li>
+    <li>rinu</li>
+    <li>akhila</li>
+  </ul>
+  <ol>
+    <li>jisna</li>
+    <li>nandi</li>
+    <li>rinu</li>
+    <li>akhila</li>
+  </ol>
+
+
+
+
+</HTML>

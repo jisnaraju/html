@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <title>"Table display"</title>
+  </head>
+<body>
+   <table width="400" cellpadding="10" cellspacing="5" border=10 bordercolor="RED">
+   <tr>
+      <th></th>
+      <th> Home Starter hosting </th>
+      <th> Premium Business hosting  </th>
+   </tr>
+
+   <tr>
+       <th> Disk Space </th>
+       <td> 250MB </td>
+       <td> 1GB </td>
+  </tr>
+
+  <tr>
+       <th> BW </th>
+       <td> 5GB </td>
+       <td> 50GB </td>
+  </tr>
+
+  <tr>
+       <th> Email account </th>
+       <td> 3 </td>
+       <td> 10 </td>
+  </tr>
+
+  <tr>
+       <th> Server </th>
+       <td> shared </td>
+       <td> VPS </td>
+  </tr>
+
+  <tr>
+       <th> Setup </th>
+       <td> free </td>
+       <td> free</td>
+  </tr>
+
+  <tr>
+       <th></th>
+       <td colspan ="2"> Sign Up Now and save 50% </td>
+  </tr>
+</body>
+</html>

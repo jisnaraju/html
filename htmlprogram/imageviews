@@ -1,0 +1,20 @@
+<html>
+  <head>
+      <title>"images display"</title>
+  </head>
+<!---border creation--------->
+      <center> <h2 style=" border: 5px solid #C0C0C0;width:300px ;height: =30px;color: Blue;"><i><center><font color="RED">E</font>xplore <font color="RED"> t</font>he  <font color="RED">W</font>orld</i></h2></center>
+<!--border ends------>
+  <body>
+    <!--giving caption to the photo--------->
+       <figure>
+            <img src="sibi.jpg" alt="image" height="300" width="400">
+            <figcaption> Beauty of Nature <figcaption>
+       </figure>
+<!--caption ends----------->
+<h4>See more </h4>
+            <img src="forest.jpg" alt="image" height="200" width="300">
+            <img src="road.jpg" alt="image" height="200" width="300">
+            <img src="download.jpg" alt="image" height="200" width="300">
+  </body>
+</html>
